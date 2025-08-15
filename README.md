@@ -2,6 +2,6 @@
 - I’m currently learning ...AI/ML
 - I’m looking to collaborate on ...Python/Data/ML Projects
 - 📫 How to reach me ...https://www.linkedin.com/in/medhasakhamuri/
-- Take a look at my Website - https://nagamedha.github.io/Medha.github.io/
+- Take a look at my Website - https://nagamedha.github.io/Portfolio/
 - 😄 Pronouns: ...She/her
 - Success is where preparation and opportunity meet 💫
